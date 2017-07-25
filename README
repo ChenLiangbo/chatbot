@@ -1,0 +1,23 @@
+=======================================================
+||                   chatbot                           ||
+========================================================
+
+This is a chatbot created with aiml. To use it,use Flask as server.
+Backup file on server 42,/home/chenlb/aiml_chatbot
+
+'''
+cd chatbot
+sudo pip install -r reqirements.txt
+python main.py
+'''
+
+open browser,url : http://127.0.0.1:7890
+
+chat with bot
+
+
+platform
+-------------------
+python   2
+flask
+aiml     1.0
